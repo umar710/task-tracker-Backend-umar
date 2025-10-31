@@ -128,7 +128,10 @@ curl -X POST http://localhost:3000/tasks \
 ## 📞 Contact
 
 **Developer:** Umer Faruque Syed
+
 **Email:** [umarsyed082@gmail.com](umarsyed082@gmail.com)
+
 **Live API:** [task-tracker-backend-umar.onrender.com](https://task-tracker-backend-umar.onrender.com)
+
 **Frontend Repo:** [Task Tracker Frontend](https://github.com/umar710/task-tracker-Frontend-umar)
 
